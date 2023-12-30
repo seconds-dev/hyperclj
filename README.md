@@ -1,6 +1,6 @@
 # hyperclj
 
-A Clojure library designed for seamless `_hyperscript` authoring. Eliminate the hassle of multi-line strings, string concatenation, and substitution.
+A Clojure library designed for seamless [_hyperscript](https://hyperscript.org/) authoring. Eliminate the hassle of multi-line strings, string concatenation, and substitution.
 
 
 # Examples
